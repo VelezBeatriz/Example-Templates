@@ -5,11 +5,11 @@
 Este repositorio contiene una colección de plantillas web creadas por el autor Kiko Palomares.
 Puedes explorar ejemplos en vivo de estas plantillas a continuación:
 
-- [Blog Cultural de Estudiantes](https://example-culturalstudent-blog.netlify.app/)
-- [Calendario Cultural de Estudiantes](https://example-culturalstudent-calendar.netlify.app/)
-- [Foro Cultural de Estudiantes](https://example-culturalstudent-foro.netlify.app/)
-- [Galería Cultural de Estudiantes](https://example-culturalstudent-gallery.netlify.app/)
-- [Tienda Cultural de Estudiantes](https://example-culturalstudent-shop.netlify.app/)
+- [Blog](https://example-culturalstudent-blog.netlify.app/)
+- [Calendario](https://example-culturalstudent-calendar.netlify.app/)
+- [Foro](https://example-culturalstudent-foro.netlify.app/)
+- [Galería](https://example-culturalstudent-gallery.netlify.app/)
+- [Tienda](https://example-culturalstudent-shop.netlify.app/)
 
 ## Sobre el Autor
 
